@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+double Max(double* p, int count)
+{
+	double  m = -999999999;
+	for (int i = 0; i < count; i++)
+	{
+		if (m < *(p + 1))
+		{
+			m = *(p + 1);
+		}
+	}
+	return m;
+}
+
+int main(void)
+{
+	double ary1[5] = { 5.3, 1.4, 7.9, 0.4, -4.5 };
+	double ary2[3] = { -4.3, -1.5, -10.7 };
+}
