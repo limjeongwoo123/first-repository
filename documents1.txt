@@ -10,14 +10,12 @@ double Max(double* p, int count)
 			m = *(p + 1);
 		}
 	}
-	return m;
-}
+(4) 파일의 수정 이력 확인 및 비교 방법
 
 
-int main(void)
-{
-	double ary1[5] = { 5.3, 1.4, 7.9, 0.4, -4.5 };
-	double ary2[3] = { -4.3, -1.5, -10.7 };
+
+
+
 }int main(void)
 {
 	double ary1[5] = { 5.3, 1.4, 7.9, 0.4, -4.5 };
