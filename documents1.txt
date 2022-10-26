@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-임정우 개존잘
-=======
-임정우 공부 안 함
+임정우 공부 한다.
 >>>>>>> main
 
 double Max(double* p, int count)
